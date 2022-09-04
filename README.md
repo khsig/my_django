@@ -1,1 +1,1 @@
-# my_django
+# shrinkers
